@@ -1,0 +1,24 @@
+{
+    "name": "skrupel/currency-conversion",
+    "type": "library",
+    "description": "Simple class to convert between currencies",
+    "keywords": [
+        "currency",
+        "EUR",
+        "USD",
+        "europe"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alejandro García Asencio",
+            "email": "alejandro.garcia.asencio@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CurrencyConversion\\": "src/CurrencyConversion/"
+        }
+    }
+}
